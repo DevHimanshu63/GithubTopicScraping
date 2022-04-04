@@ -25,21 +25,9 @@ function topFIve(html){
     // console.log(topproblem.length);
 
    for(let i=0 ; i<topproblem.length ; i++){
-
-    
        console.log(selecTool(topproblem[i]).text());
-       
    }
 }
-
-
-
-
-
-
-
-
-
 
 
 
